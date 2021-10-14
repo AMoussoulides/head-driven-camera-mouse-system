@@ -34,7 +34,7 @@ This application offers a non-intrusive and robust HCI alternative hands-free so
 Firstly clone the repo:
 
 ```
-git clone https://cseegit.essex.ac.uk/2020_ce901/ce901_moussoulides_antonis
+git clone https://github.com/AMoussoulides/head-driven-camera-mouse-system
 ```
 
 Create a virtual enviroment using venv and activate it
@@ -60,7 +60,7 @@ Like so:
 model/shape_predictor_68_face_landmarks.dat
 ```
 
-Finally, run the ``gui.py`` file and choose your preffered mode of the application
+Finally, run the ``gui.py`` file and choose your preferred mode of the application
 
 
 ## Built With
